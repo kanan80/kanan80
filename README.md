@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Kanan 👋
 
 I am passionate about **DevOps** and I love coding in **Golang**. Currently, I'm focused on improving my skills in **Kubernetes**, **CI/CD pipelines**.
 
