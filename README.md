@@ -6,7 +6,3 @@ I am passionate about **DevOps** and I love coding in **Golang**. Currently, I'm
 
 - **Programming Languages**: Golang, Python
 - **DevOps**: Docker, Kubernetes, Jenkins
-
-## 📫 Connect with Me:
-
-- [LinkedIn](https://linkedin.com/in/kanan-mahmudov-859a51316)
