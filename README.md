@@ -8,3 +8,4 @@ I am passionate about **DevOps** and I love coding in **Golang**. Currently, I'm
 - **Containerization**: Docker
 - **Orchestration**: Kubernetes
 - **CI/CD**: Jenkins, GitHub Actions, GitLab
+- **Monitoring**: Prometheus, Grafana
