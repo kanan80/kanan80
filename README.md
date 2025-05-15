@@ -5,7 +5,6 @@ I am passionate about **DevOps** and I love coding in **Golang**. Currently, I'm
 ## 🚀 Technologies
 
 - **Programming Languages**: Golang, Python
-- **DevOps**: Docker, Kubernetes, Jenkins
 - **Containerization**: Docker
 - **Orchestration**: Kubernetes
 - **CI/CD**: Jenkins, GitHub Actions, GitLab
